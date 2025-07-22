@@ -14,6 +14,7 @@ pw : admin 123
 <li>Select2 untuk multiple select</li>
 <li>DataTables</li>
 <li>DomPDF</li>
+<li>simple-qrcode</li>
 </ul>
 
 # Fitur Requirements :
